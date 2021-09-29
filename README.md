@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedro-m-Duarte
 - 👀 I’m interested in learn new technologies.   
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning web development.
 - 📫 How to reach me: pdr.maia.d@gmail.com
 
 <!---
