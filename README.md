@@ -16,5 +16,6 @@ I’m **Pedro Duarte**, a **Full-Stack Developer** passionate about solving comp
 ## 📫 How to Reach Me  
 
 - 📩 **Email:** [pdr.maia.d@gmail.com](mailto:pdr.maia.d@gmail.com)  
-- 🔗 **LinkedIn:** [Pedro-m-Duarte](https://www.linkedin.com/in/pedro-m-duarte/)  
+- 🔗 **LinkedIn:** [Pedro-m-Duarte](https://www.linkedin.com/in/pedro-m-duarte/)
+- 🥬 **Portifolio** [Portifolio](https://pedro-m-duarte.github.io/personal-portfolio/#)
 
